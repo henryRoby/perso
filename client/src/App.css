@@ -1,0 +1,171 @@
+#logo{
+    width:40%;
+  
+}
+#imghello{
+    width: 100%;
+    height: 50%;
+}
+#nomProject{
+    color: #f3671f;
+    font-size:46px; 
+}
+.aingo{
+    color: #d05c62;
+    font-size:76px;
+}
+#navbar{
+    height: 20%;
+    background-color: black !important;
+}
+
+
+
+
+#ajoutatelier {
+    display: none;
+}
+#tableau {
+    display: none;
+}
+#des {
+    width: 100px
+}
+#ajoutEleve {
+  display: none;
+}
+#eleve{
+  display: none;
+}
+
+
+
+#mail{
+    background-color: #f3671f;
+    border-radius:4%;
+    width:350px;
+    padding:8px;
+}
+
+
+
+
+#feedback-form button[type=submit] {
+    display: block;
+    margin: 2.58vh auto 0;
+     width:64vh; 
+     height: 5.16vh; 
+     border-radius:10%;
+      border: none;
+       color: #eee;
+        /*font-weight: 700;*/
+          background:orange !important;
+           } 
+
+
+
+#fichier{ 
+    padding: 10px; 
+    background: rgb(88, 85, 85); 
+    display: table; 
+    color: #fff; 
+    width: 100px; 
+    height: 30px; 
+    border-radius: 2px; 
+    text-align: center; 
+    float: right; 
+    margin-top: 10px; 
+    padding-top: 5px!important; 
+    line-height: 30px;
+    font-weight: bold
+  }
+
+
+#fotera{
+   background-color: black;
+}
+
+
+
+#landing{
+
+    margin-top:50px;
+    height: 2900px;
+    
+}
+
+#image{
+    width:400px;
+    margin-top: 20px;
+    height:300px;
+}
+
+
+#barakely{
+   border: 1px  solid black;
+   border-radius: 5px;
+}
+
+
+#modifAtelier{
+   border: 1px  solid black;
+   border-radius:10px;
+   width: 400px;
+   padding:20px;
+   background: #ffff12 !important;
+}
+
+#editEleve{
+border: 1px  solid black;
+   border-radius:10px;
+   width: 400px;
+   padding:20px;
+   background: #ffff12 !important;
+  
+}
+
+#Deconnect{
+  width:120px!important;
+  height:40px;
+  background: blue !important;
+  color: white;
+}
+
+#suivi{
+  padding-top: 10px !important;
+   border: 1px  solid black;
+   border-radius:10px;
+   margin-left:50px;
+   margin-top: 20px;
+   background: lavender;
+   height:400px;
+   margin-right:20px;
+}
+
+#suivie{
+width:500px!important;
+padding-top: 20px !important;
+margin-left:80px;
+margin-right:80px;
+}
+
+
+#titre{
+  background:turquoise!important;
+  margin-top:100px !important;
+}
+
+
+#allAccueil{
+ background: lavender; 
+}
+
+#hautList{
+  background:green !important;
+  margin-top:100px !important;
+  width:auto;
+  height: 30px;
+  padding:auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}

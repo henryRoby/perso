@@ -1,0 +1,41 @@
+#feedback-form {
+   width: 64.5vh;
+    margin: 0 auto;
+    border-radius:6%;
+     background-color: #f38a45;
+      padding: 2.58vh 6.45vh 5.16vh;
+       box-shadow: 0.129vh 0.516vh 1.29vh 0.129vh #aaa;
+        font-family: verdana, sans-serif; color: #eee;
+       }
+        #feedback-form * { 
+         box-sizing: border-box;
+          margin-top: 6.45vh !important; 
+          color: #eee; 
+        } 
+        #feedback-form h2{ 
+          text-align: center;
+           margin-bottom: 3.87vh;
+            color: #eee; 
+          } 
+          #feedback-form input { 
+            margin-bottom: 1.935vh;
+             color: #eee;
+             }
+            
+                    #feedback-form label {
+                       color: #777;
+                        font-size: 0.8em;
+                         color: #eee;
+                         } 
+                         #feedback-form input[type=checkbox] {
+                            float: left; 
+                          } 
+                          #feedback-form input:not(:checked) + #feedback-phone {
+                             height: 0;
+                              padding-top: 0;
+                               padding-bottom: 0;
+                               } 
+                               #feedback-form #feedback-phone {
+                                  transition: .3s;
+                                 } 
+                            
